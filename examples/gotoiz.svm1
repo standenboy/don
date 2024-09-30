@@ -1,0 +1,10 @@
+read
+sub 65
+
+gotoiz end
+
+push 10
+pop
+write
+
+end

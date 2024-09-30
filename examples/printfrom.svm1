@@ -1,0 +1,14 @@
+read
+push
+
+start
+pop
+write
+add 1
+push
+sub 91
+gotoinz start
+
+push 10
+pop
+write
